@@ -5,17 +5,17 @@
 💼 My toolkit includes:
 
 Frontend Dev
-- CSR: VueJS, Svelte
-- SSR: NuxtJS, SvelteKit
-- SSG: Astro, VitePress
+- VueJS, NuxtJS, VitePress.
+- Web API's 
+- Tailwind, Vuetify, PrimeVue, etc.
 - SEO, Responsive & Adaptive design, i18n, etc.
 
 Backend Dev
-- REST, GraphQL, tRPC
+- REST API, Swagger
 - MongoDB, MySQL, PostgreSQL
 - NestJS, ExpressJS. NodeJS, Bun
 - JWT-Authentication, Role-Authorization, Rate-Limiting, etc.
-- Caching (Redis),  Broadcasting (WebSockets), Queues (RabbitMQ)
+- Caching (Redis), Broadcasting (WebSockets), Queues (RabbitMQ)
 - BaaS (Pocketbase, Firebase, Supabase)
 
 🔧 Whether it's architecting complex applications, optimizing performance, or streamlining development workflows, I'm passionate about leveraging technology to solve real-world problems.
