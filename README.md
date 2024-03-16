@@ -15,7 +15,7 @@ Backend Dev
 - MongoDB, MySQL, PostgreSQL
 - NestJS, ExpressJS. NodeJS, Bun
 - JWT-Authentication, Role-Authorization, Rate-Limiting, etc.
-- Caching (Redis),  Broadcastiong (WebSockets), Queues (RabbitMQ)
+- Caching (Redis),  Broadcasting (WebSockets), Queues (RabbitMQ)
 - BaaS (Pocketbase, Firebase, Supabase)
 
 🔧 Whether it's architecting complex applications, optimizing performance, or streamlining development workflows, I'm passionate about leveraging technology to solve real-world problems.
