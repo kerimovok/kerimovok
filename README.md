@@ -5,8 +5,8 @@
 💼 My toolkit includes:
 
 **Frontend**
-- VueJS, NuxtJS, ReactJS
-- Pinia, Vuex
+- VueJS, NuxtJS | ReactJS
+- Pinia, Vuex | Context API, RTK
 - SSR, CSR, SSG
 - Tailwind, Sass, Styled-components
 - Vuetify, PrimeVue, MUI, Ant Design, etc.
@@ -17,7 +17,7 @@
 
 **Backend**
 - MongoDB, MySQL, PostgreSQL
-- NestJS, ExpressJS, Laravel
+- NestJS, ExpressJS
 - Passport.js, CASL, RBAC-ABAC
 - CRON, Mailer, Puppeteer, Rate-limiting, Swagger, Winston
 - Caching (Redis), Broadcasting (WebSockets, SSE), Queues (RabbitMQ, BullMQ)
