@@ -5,11 +5,15 @@
 💼 My toolkit includes:
 
 **Frontend**
-- VueJS, NuxtJS
-- Tailwind, Vuetify, PrimeVue, etc.
-- SSR, PWA
+- VueJS, NuxtJS, ReactJS
 - Pinia, Vuex
-- SEO, Responsive & Adaptive design, i18n, etc.
+- SSR, CSR, SSG
+- Tailwind, Sass, Styled-components
+- Vuetify, PrimeVue, MUI, Ant Design, etc.
+- Customizable components, Layouts
+- Real-time subscriptions (WebSockets, SSE)
+- SEO, PWA, Responsive & Adaptive design, i18n, etc.
+- BaaS (Pocketbase, Supabase)
 
 **Backend**
 - MongoDB, MySQL, PostgreSQL
@@ -18,7 +22,6 @@
 - CRON, Mailer, Puppeteer, Rate-limiting, Swagger, Winston
 - Caching (Redis), Broadcasting (WebSockets, SSE), Queues (RabbitMQ, BullMQ)
 - Microservice architecture (TCP, RabbitMQ, Kafka)
-- BaaS (Pocketbase, Supabase)
 
 **Deployment**
 - Docker, Docker Compose
