@@ -1,3 +1,6 @@
+
+<p align="left"> <img style="margin-right: 100px;" align="center" src="https://komarev.com/ghpvc/?username=kerimovok&label=Profile%20views&color=0e75b6&style=flat" alt="kerimovok" /> </p>
+
 👋 Hello there! I'm Orkhan Karimov, a seasoned developer specializing in Vue.js and various complementary technologies to build robust web applications.
 
 🚀 With expertise in frontend and backend technologies, I excel at architecting and developing full-stack solutions that are both scalable and performant.
