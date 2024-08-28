@@ -1,9 +1,9 @@
 
 <p align="left"> <img style="margin-right: 100px;" align="center" src="https://komarev.com/ghpvc/?username=kerimovok&label=Profile%20views&color=0e75b6&style=flat" alt="kerimovok" /> </p>
 
-👋 Hello there! I'm Orkhan Karimov, a seasoned developer specializing in Vue.js and various complementary technologies to build robust web applications.
+👋 Hello there! I'm Orkhan Karimov, a web developer who likes experimenting with everything. I love learning new things and spend my free time improving my skills.
 
-🚀 With expertise in frontend and backend technologies, I excel at architecting and developing full-stack solutions that are both scalable and performant.
+🚀 With expertise in Frontend & Backend & DevOps technologies, I excel at architecting and developing full-stack solutions that are both scalable and performant.
 
 💼 My toolkit includes:
 
@@ -28,7 +28,7 @@
 
 **Deployment**
 - Docker, Docker Compose
-- Nginx (SSL/TLS, Proxy, Rate-limiting, Caching, Load-balancing, Static Serving, etc.)
+- Nginx / Traefik (SSL/TLS, Proxy, Rate-limiting, Caching, Load-balancing, Static Serving, etc.)
 - PM2 Clustering
 - Ubuntu, Debian
 
