@@ -3,33 +3,41 @@
 
 👋 Hello there! I'm Orkhan Karimov, a web developer who likes experimenting with everything. I love learning new things and spend my free time improving my skills.
 
-🚀 With expertise in Frontend & Backend & DevOps technologies, I excel at architecting and developing full-stack solutions that are both scalable and performant.
+🚀 With expertise in Frontend & Backend & DevOps technologies, I excel at architecting and developing full-stack scalable and performant solutions.
 
 💼 My toolkit includes:
 
-**Frontend**
-- VueJS, NuxtJS | ReactJS
-- Pinia, Vuex | Context API, RTK
-- SSR, CSR, SSG
-- Tailwind, Sass, Styled-components
-- Vuetify, PrimeVue, MUI, Ant Design, etc.
-- Customizable components, Layouts
-- Real-time subscriptions (WebSockets, SSE)
-- SEO, PWA, Responsive & Adaptive design, i18n, etc.
-- BaaS (Pocketbase, Supabase)
+### Frontend
+| KEY             | VALUE                                                     |
+|-----------------|-----------------------------------------------------------|
+| Languages       | Javascript, TypeScript                                    |
+| Frameworks      | Vue.js, Nuxt.js, React.js, Next.js, Astro                 |
+| Rendering       | SSR, CSR, SSG                                             |
+| Styling         | Tailwind, Sass, Styled-components                         |
+| UI              | Vuetify, PrimeVue, MUI, Ant Design, ShadCN                |
+| BaaS            | Pocketbase, Supabase                                      |
+| Broadcasting    | WebSockets, SSE                                           |
+| Additions       | SEO, PWA, Responsive & Adaptive design, i18n              |
 
-**Backend**
-- MongoDB, MySQL, PostgreSQL
-- NestJS, ExpressJS
-- Passport.js, CASL, RBAC-ABAC
-- CRON, Mailer, Puppeteer, Rate-limiting, Swagger, Winston
-- Caching (Redis), Broadcasting (WebSockets, SSE), Queues (RabbitMQ, BullMQ)
-- Microservice architecture (TCP, RabbitMQ, Kafka)
+### Backend
+| KEY             | VALUE                                                     |
+|-----------------|-----------------------------------------------------------|
+| Languages       | Javascript, TypeScript, Go                                |
+| Frameworks      | Nest.js, Express.js, Fiber                                |
+| Microservices   | TCP, RabbitMQ, Kafka                                      |
+| Queues          | RabbitMQ, BullMQ                                          |
+| Databases       | MongoDB, PostgreSQL, MySQL, SQLite                        |
+| Auth            | Passport.js, CASL, RBAC-ABAC                              |
+| Broadcasting    | WebSockets, SSE                                           |
+| Additions       | CRON, Mailer, Puppeteer, Rate-limiting, Swagger, Winston  |
 
 **Deployment**
-- Docker, Docker Compose
-- Nginx / Traefik (SSL/TLS, Proxy, Rate-limiting, Caching, Load-balancing, Static Serving, etc.)
-- PM2 Clustering
-- Ubuntu, Debian
+| KEY             | VALUE                                                     |
+|-----------------|-----------------------------------------------------------|
+| Containers      | Docker, Docker Compose                                    |
+| Web servers     | Nginx, Traefik, Caddy                                     |
+| Clustering      | PM2                                                       |
+| OSs             | Ubuntu, Debian                                            |
+| Proxy           | Load-balancing, Rate-limiting, Caching, SSL/TLS           |
 
 🔧 Whether it's architecting complex applications, optimizing performance, or streamlining development workflows, I'm passionate about leveraging technology to solve real-world problems.
