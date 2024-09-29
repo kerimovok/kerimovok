@@ -12,6 +12,7 @@
 |-----------------|-----------------------------------------------------------|
 | Languages       | Javascript, TypeScript                                    |
 | Frameworks      | Vue.js, Nuxt.js, React.js, Next.js, Astro                 |
+| State           | Vuex, Pinia, RTK Query, Zustand                           |
 | Rendering       | SSR, CSR, SSG                                             |
 | Styling         | Tailwind, Sass, Styled-components                         |
 | UI              | Vuetify, PrimeVue, MUI, Ant Design, ShadCN                |
