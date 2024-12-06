@@ -42,5 +42,3 @@
 | Proxy           | Load-balancing, Rate-limiting, Caching, SSL/TLS           |
 
 🔧 Whether it's architecting complex applications, optimizing performance, or streamlining development workflows, I'm passionate about leveraging technology to solve real-world problems.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimovok&show_icons=true&locale=en&layout=compact" alt="ovi" />
