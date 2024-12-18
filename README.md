@@ -38,6 +38,6 @@
 | Web servers     | Nginx, Traefik, Caddy                                     |
 | Clustering      | PM2                                                       |
 | OSs             | Ubuntu, Debian                                            |
-| Proxy           | Load-balancing, Rate-limiting, Caching, SSL/TLS           |
+| Additions       | Load-balancing, Rate-limiting, Caching, SSL/TLS           |
 
 🔧 Whether it's architecting complex applications, optimizing performance, or streamlining development workflows, I'm passionate about leveraging technology to solve real-world problems.
