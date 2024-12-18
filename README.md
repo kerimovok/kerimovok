@@ -25,7 +25,6 @@
 |-----------------|-----------------------------------------------------------|
 | Languages       | Javascript, TypeScript, Go                                |
 | Frameworks      | Nest.js, Express.js, Fiber                                |
-| Microservices   | TCP, RabbitMQ, Kafka                                      |
 | Queues          | RabbitMQ, BullMQ                                          |
 | Databases       | MongoDB, PostgreSQL, MySQL, SQLite                        |
 | Auth            | Passport.js, CASL, RBAC-ABAC                              |
