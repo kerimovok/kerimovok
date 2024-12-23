@@ -1,6 +1,10 @@
 
 <p align="left"> <img style="margin-right: 100px;" align="center" src="https://komarev.com/ghpvc/?username=kerimovok&label=Profile%20views&color=0e75b6&style=flat" alt="kerimovok" /> </p>
 
+<a href="https://linkedin.com/in/kerimovok/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://stackoverflow.com/users/10913418/orkhan-karimov" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?&style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+<a href="https://dev.to/kerimovok" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
 👋 Hello there! I'm Orkhan Karimov, a web developer who likes experimenting with everything. I love learning new things and spend my free time improving my skills.
 
 🚀 With expertise in Frontend & Backend & DevOps technologies, I excel at architecting and developing full-stack scalable and performant solutions.
