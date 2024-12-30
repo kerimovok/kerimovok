@@ -31,9 +31,7 @@
 
 </br>
 
-👋 Hello there! I'm Orkhan Karimov, a web developer who likes experimenting with everything. I love learning new things and spend my free time improving my skills.
-
-🚀 With expertise in Frontend & Backend & DevOps technologies, I excel at architecting and developing full-stack scalable and performant solutions.
+👋 Hello there! I'm Orkhan Karimov, a passionate full-stack developer proficient in languages like TypeScript and Golang, crafting scalable and efficient solutions. From microservices to fully integrated IT projects, I strive to deliver innovative and impactful applications.
 
 </br>
 
