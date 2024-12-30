@@ -13,6 +13,29 @@
 
 🚀 With expertise in Frontend & Backend & DevOps technologies, I excel at architecting and developing full-stack scalable and performant solutions.
 
+## 🧰 My Toolbox
+
+</br>
+
+<p align="center">
+    <a href="#gh-dark-mode-only">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="GoLang" src="https://img.shields.io/badge/GoLang-050505?style=for-the-badge&logo=go#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="GoLang" src="https://img.shields.io/badge/GoLang-FFFFFF?style=for-the-badge&logo=go#gh-light-mode-only">
+    </a>
+</p>
+
+## 📊 Stats
+
+</br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerimovok&theme=tokyonight" align="center" alt="my-streak"/>
