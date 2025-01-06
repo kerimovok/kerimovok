@@ -19,7 +19,6 @@
     <a href="#gh-light-mode-only">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only">
     </a>
-    &emsp;
     <a href="#gh-dark-mode-only">
         <img alt="GoLang" src="https://img.shields.io/badge/GoLang-1A1B27?style=for-the-badge&logo=go#gh-dark-mode-only">
     </a>
@@ -36,8 +35,18 @@
 </br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerimovok&theme=tokyonight" align="center" alt="my-streak"/>
+  <a href="#gh-dark-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerimovok&theme=tokyonight" align="center" alt="my-streak"/>
+  </a>
+  <a href="#gh-light-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerimovok" align="center" alt="my-streak"/>
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimovok&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="my-stats" />
+  <a href="#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimovok&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="my-stats" />
+  </a>
+  <a href="#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimovok&show_icons=true&locale=en&layout=compact" alt="my-stats" />
+  </a>
 </p>
