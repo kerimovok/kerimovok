@@ -1,5 +1,6 @@
 
 <h1 align="center">Orkhan Karimov</h1>
+<p align="center">I'm a creator of <a href="https://github.com/honestjs">HonestJS.</a> and some other useful packages & microservices.</p>
 <p align="center">
   <p align="center">
     <a href="#gh-dark-mode-only">
@@ -16,12 +17,6 @@
     </a>
 </p>
 </p>
-
-</br>
-
-I code stuff.
-
-</br>
 
 <p align="center">
   <a href="#gh-dark-mode-only">
