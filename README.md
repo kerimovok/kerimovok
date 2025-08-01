@@ -10,8 +10,8 @@
     </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GoLang-1A1B27?style=for-the-badge&logo=go">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GoLang-FFFFFF?style=for-the-badge&logo=go#gh-light-mode-only">
-      <img align="center" alt="my-streak" src="https://img.shields.io/badge/GoLang-FFFFFF?style=for-the-badge&logo=go#gh-light-mode-only">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GoLang-FFFFFF?style=for-the-badge&logo=go">
+      <img align="center" alt="my-streak" src="https://img.shields.io/badge/GoLang-FFFFFF?style=for-the-badge&logo=go">
     </picture>
   </p>
 </p>
@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://github.com/honestjs/honest">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=honestjs&repo=honest">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=honestjs&repo=honest&theme=tokyonight">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=honestjs&repo=honest">
       <img align="center" alt="my-streak" src="https://github-readme-stats.vercel.app/api/pin/?username=honestjs&repo=honest">
     </picture>
@@ -27,7 +27,7 @@
 
   <a href="https://github.com/honestjs/http-essentials">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=honestjs&repo=http-essentials">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=honestjs&repo=http-essentials&theme=tokyonight">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=honestjs&repo=http-essentials">
       <img align="center" alt="my-streak" src="https://github-readme-stats.vercel.app/api/pin/?username=honestjs&repo=http-essentials">
     </picture>
