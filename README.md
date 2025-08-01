@@ -20,6 +20,22 @@
 
 <p align="center">
   <a href="#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=honestjs&repo=honest" align="center" alt="my-streak"/>
+  </a>
+  <a href="#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=honestjs&repo=honest" align="center" alt="my-streak"/>
+  </a>
+
+  <a href="#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=honestjs&repo=http-essentials" align="center" alt="my-streak"/>
+  </a>
+  <a href="#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=honestjs&repo=http-essentials" align="center" alt="my-streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="#gh-dark-mode-only">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerimovok&theme=tokyonight" align="center" alt="my-streak"/>
   </a>
   <a href="#gh-light-mode-only">
